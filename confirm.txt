@@ -17,7 +17,7 @@
     <!-- Template Stylesheet -->
 </head>
 
-<body class=proceed add=127.0.0.1>
+<body mandtarget=proceed mandadd=127.0.0.1>
     <div class="wrapper">
         <!-- Header Start -->
         <div class="header home">
